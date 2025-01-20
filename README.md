@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Hemanth-Moka
-- 👀 I’m interested in ...Python StackDevlopment
-- 🌱 I’m currently learning ...React JS
+- 👀 I’m interested in ...Python Full StackDevlopment
+- 🌱 I’m currently learning ...React JS ,SpringBoot , PHP
 - 💞️ I’m looking to collaborate on ... On
-- 📫 How to reach me ...
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...a Python Full Stack dev—write bugs everywhere!" 🐍😎
+- 📫 How to reach me ... @hemanthh.h7788@gmail.com
+- ⚡ Why be a Frontend or Backend dev? Be a Python Full Stack dev—write bugs everywhere!" 🐍😎
 
 <!---
 Hemanth-Moka/Hemanth-Moka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
