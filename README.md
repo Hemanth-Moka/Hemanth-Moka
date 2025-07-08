@@ -31,16 +31,17 @@
 
 ---
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemanth-moka&show_icons=true&locale=en&layout=compact&theme=dark" 
-       alt="Top Languages" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemanth-moka&show_icons=true&locale=en&layout=compact&theme=dark" 
+    alt="Top Languages" 
+    height="200"
+  />
 
-<p>&nbsp;</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Hemanth-moka&show_icons=true&locale=en&theme=dark" 
+    alt="GitHub Stats" 
+    height="200"
+  />
+</div>
 
-<p>
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=Hemanth-moka&show_icons=true&locale=en&theme=dark" 
-       alt="GitHub Stats" />
-</p>
