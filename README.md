@@ -1,8 +1,26 @@
+<h1 align="center">Hi 👋, I'm Hemanth Moka</h1>
+<h3 align="center">A Full Stack Developer</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hemanthmoka/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemanthh.h7788@gmail.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinexh&label=Profile%20views&color=0e75b6&style=flat" alt="hemanth-moka" /> </p>
 
-# Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 
 
+- All of my projects are available at [https://hemanthmoka.in](https://hemanthmoka.in/projects)
+
+
+- How to reach me **dev@hemanthmoka.in**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=dinexh&show_icons=true&locale=en&layout=compact&theme=dark" 
+       alt="hemanth-moka" />
+</p>
+
+<p>&nbsp;
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=dinexh&show_icons=true&locale=en&theme=dark" 
+       alt="hemanth-moka" />
+</p>
