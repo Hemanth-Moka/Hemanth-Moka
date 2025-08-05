@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hemanthmoka&label=Profile%20views&color=0e75b6&style=flat" alt="hemanthmoka" />
+  <img src="https://komarev.com/ghpvc/?username=Hemanth-Moka&label=Profile%20views&color=0e75b6&style=flat" alt="Hemanth-Moka" />
 </p>
 
 - 🔗 **Portfolio:** [https://hemanthmoka.in](https://hemanthmoka.in/projects)  
@@ -31,10 +31,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemanth-moka&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemanth-Moka&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hemanth-moka&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Hemanth-Moka&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
