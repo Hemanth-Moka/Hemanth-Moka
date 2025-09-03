@@ -1,5 +1,5 @@
 <h1 align="center">Hemanth Moka</h1>
-<h3 align="center">Dev</h3>
+<h3 align="center">Aspiring Dev</h3>
 
 <p align="center">
   <a href="https://hemanthmoka.in/projects" target="_blank">Projects</a>
