@@ -9,7 +9,7 @@ Alongside building applications, I spend time understanding cloud systems, cyber
 Beyond code, I’m focused on growing into stronger system design, cloud engineering, and building products that solve real-world problems at scale.
 
 You can find more about my work and projects at:
-https://www.hemanthmoka.in/
+https://hemanthmoka.vercel.app
 
 For collaborations or professional inquiries:
 hemanthmoka47@gmail.com
