@@ -1,16 +1,16 @@
-Hi, I’m Hemanth Moka — a full-stack developer focused on building scalable web applications and backend systems.
+Hi, I’m Hemanth Moka.
 
-I enjoy designing clean architectures, developing reliable APIs, and creating user experiences that are simple, efficient, and built to grow. I’m also passionate about system design, cloud technologies, and cybersecurity.
+I build software by thinking deeply about how systems are structured, how users interact with them, and how products scale beyond their first release. My work primarily revolves around full-stack development, system design, and building platforms that are meant to be practical, scalable, and performance-driven.
 
-Portfolio: https://hemanthmoka.vercel.app
-Hi, I’m Hemanth Moka — a full-stack developer focused on building scalable web applications and backend systems.
+Most of what I build sits at the intersection of modern web applications and structured backend systems. I enjoy designing APIs, managing databases, and architecting clean backend logic just as much as building responsive, well-crafted user interfaces. For me, good software is not just about features — it’s about clarity, maintainability, and long-term growth.
 
-I enjoy designing clean architectures, developing reliable APIs, and creating user experiences that are simple, efficient, and built to grow. I’m also passionate about system design, cloud technologies, and cybersecurity.
+Alongside building applications, I spend time understanding cloud systems, cybersecurity fundamentals, and scalable architecture patterns. I’m particularly interested in how distributed systems operate, how platforms handle growth, and how security is embedded into system design rather than added later.
 
-I'm always looking to build products that solve real-world problems and scale effectively.
+Beyond code, I’m focused on growing into stronger system design, cloud engineering, and building products that solve real-world problems at scale.
 
-GitHub: https://github.com/Hemanth-Moka
+You can find more about my work and projects at:
+https://hemanthmoka.vercel.app
 
-Email: [hemanthmoka47@gmail.com](mailto:hemanthmoka47@gmail.com)
-
-Work Email: [dev@hemanthmoka.in](mailto:dev@hemanthmoka.in)
+For collaborations or professional inquiries:
+hemanthmoka47@gmail.com
+dev@hemanthmoka.in
